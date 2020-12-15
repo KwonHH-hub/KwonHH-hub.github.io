@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My first post"
+title:  "나의 첫 포스트"
 author: khh
-categories: [ start ]
+categories: [ 블로그시작 ]
 image: assets/images/avatar.png
 description: "블로그 시작한 날"
 featured: false
