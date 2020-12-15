@@ -33,7 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8737a3bf-94ae-4824-9fa6-c81a84852231" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-15-my first post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-15-my first post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608042198659</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="commit">
+      <created>1608042445599</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1608042445599</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,10 +292,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="844" y="432" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607948200949" />
-    <state x="166" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608042203984">
+    <state x="166" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608042481214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="166" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608042203984" />
+    <state x="166" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608042481214" />
     <state x="765" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607949844802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

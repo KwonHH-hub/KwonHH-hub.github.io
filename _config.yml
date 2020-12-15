@@ -1,7 +1,7 @@
 # Site
 name: "KwonHH's Blog"
 title: ""
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "개발자가 되는 과정, 알고리즘 공부, 일상 등 적어보기"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
