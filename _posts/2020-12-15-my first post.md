@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "My first post"
+title:  "나의 첫 포스트"
 author: khh
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "This is my first post"
+categories: [ 블로그시작 ]
+image: assets/images/avatar.png
+description: "블로그 시작한 날"
 featured: false
 hidden: true
 rating: 4.5
 ---
 
-Hello, world.
+2020년 12월 15일 Github blog 시작!
 
