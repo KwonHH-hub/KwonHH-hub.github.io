@@ -33,10 +33,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8737a3bf-94ae-4824-9fa6-c81a84852231" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-18-BOJ1931.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-15-BOJ1152.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-15-BOJ1152.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-17-BOJ1946.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-17-BOJ1946.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-18-BOJ1931.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-18-BOJ1931.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2020_study_coding" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -347,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608207276850</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="commit">
+      <created>1608296985365</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1608296985365</updated>
+    </task>
+    <task id="LOCAL-00042" summary="commit">
+      <created>1608297090166</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1608297090166</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,18 +380,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608208650986">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608302161142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608208650986" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608302161142" />
     <state x="844" y="432" key="VCS.EditChangelistDialog" timestamp="1607948200949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="844" y="432" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607948200949" />
-    <state x="166" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608207281553">
+    <state x="166" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608297095531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="166" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608207281553" />
+    <state x="166" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608297095531" />
     <state x="765" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607949844802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
