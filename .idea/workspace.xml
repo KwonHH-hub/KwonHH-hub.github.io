@@ -33,8 +33,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8737a3bf-94ae-4824-9fa6-c81a84852231" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-19-BOJ1225.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-18-BOJ1931.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-18-BOJ1931.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-15-my first post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-15- my first post.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2020_study_coding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -359,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608297090166</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="commit">
+      <created>1608307418012</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1608307418012</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,10 +396,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="844" y="432" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607948200949" />
-    <state x="166" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608297095531">
+    <state x="166" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608307444479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="166" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608297095531" />
+    <state x="166" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608307444479" />
     <state x="765" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607949844802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
